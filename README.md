@@ -10,11 +10,18 @@ The input data includes gradient waveforms which are fed in to the simulation ca
 
 ## Simulation Contents
 
-- to-add
+- mat file containing structures with spiral tse gradients used for simulations
+- demo which creates each row in the figure
+- sim and helper function
+
+```matlab
+demo_simulations
+```
+Figures can be suppressed by commenting out the plotting in the first "gradient assessment" section.
 
 ## Install Instructions
 
-- to-add
+To run the simulation, pull the repo and add it to the matlab path!
 
 ## Future features: Designing concomitant field corrections 
 
